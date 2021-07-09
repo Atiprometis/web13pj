@@ -1,0 +1,87 @@
+.font-ibm {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+.ibm-bold {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.text-center {
+  text-align: center;
+}
+
+.text-show p {
+  font-size: 0.9375rem;
+  font-weight: 500;
+}
+
+.show {
+  width: 595px;
+  height: 338px;
+}
+.icon-set {
+  padding: 0px 5px 0px 5px;
+}
+
+.test {
+  width: 68px;
+  height: 68px;
+}
+
+.rounded-project {
+  border-radius: 20px 0px 0px 20px;
+}
+.rounded-person {
+  border-radius: 0px 20px 20px 0px;
+}
+
+.img-set {
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  border-radius: 20px 0px 0px 20px;
+}
+.img-set-person {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  border-radius: 0px 20px 20px 0px;
+}
+
+.img-set-2 {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  border-radius: 0px 20px 20px 0px;
+}
+.img-set-person-2 {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  border-radius: 20px 0px 0px 20px;
+}
+.bg-liner {
+  height: 338px;
+  width: 100%;
+  border-radius: 20px 0px 0px 20px;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(42, 42, 42, 1) 100%
+  );
+}
+.bg-liner-2 {
+  height: 338px;
+  width: 100%;
+  border-radius: 0px 20px 20px 0px;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(42, 42, 42, 1) 100%
+  );
+}
